@@ -11,8 +11,8 @@ My research deals with system Programming the Theme if dissertation is
 "Implementation of support for mandatory access control of a protected operating system "Aramid" in containerization tools".
 Now I'm collecting information about virtalization systems and access control systems.
 
-I work in close contact with my research adviser.
-He is Kurulin Vadim Victorovich, if i Have difficulties in research, i can turn to him for help.
+I work in close contact with my research adviser, Kurulin Vadim Victorovich.
+If i Have difficulties in research, i can turn to him for help.
 
 These days, developers are trying to make their applications isolated from the external environment,
 but existing mandatory access control tools do not allow setting access rights for containers. When working with protected data,
